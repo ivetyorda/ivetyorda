@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivetyorda
 - 👀 I’m interested in viral immunology, One Health and biosecurity
-- 🌱 I’m currently learning how to code enough to be a generally self-sufficient infectious disease immunologist
+- 🌱 Learning how to code enough to be a generally self-sufficient infectious disease immunologist
 - 📫 How to reach me yordanovai@rki.de
 - 😄 Pronouns: she/her
 

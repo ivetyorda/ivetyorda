@@ -2,7 +2,6 @@
 - 👀 I’m interested in viral immunology, One Health and biosecurity
 - 🌱 Learning how to code enough to be a generally self-sufficient infectious disease immunologist
 - 📫 How to reach me yordanovai@rki.de
-- 😄 Pronouns: she/her
 
 <!---
 ivetyorda/ivetyorda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
